@@ -147,7 +147,7 @@ export default function V5QAQuiz() {
         <div className="text-center mb-8">
           <div className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-500/10 to-red-500/10 border border-amber-500/30 rounded-full px-6 py-2 mb-4 backdrop-blur-sm">
             <Zap className="w-4 h-4 text-amber-400" />
-            <span className="text-amber-300 text-sm font-mono">V5 Knowledge Base</span>
+            <span className="text-amber-300 text-sm font-mono">Nature Capital</span>
           </div>
           <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-amber-400 via-yellow-500 to-red-500 bg-clip-text text-transparent mb-2 drop-shadow-[0_0_30px_rgba(251,191,36,0.3)]">
             V5项目百问百答
